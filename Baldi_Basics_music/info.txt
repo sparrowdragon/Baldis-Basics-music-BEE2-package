@@ -1,0 +1,512 @@
+"ID" "BALDI_MUSIC"
+"Name" "Baldi's Basics music"
+"Desc" "Music by Micah and Cady Micah Mcgonigal."
+
+"Music"
+	{
+	"ID"          "mus_School"
+	"Name"        "School"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/school.png"
+	"IconLarge"   "music_lrg/baldi_basics/school.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "Baldi greets you to his school, compliments your gameplay competence or invites you to a game of Hide-and-Seek. Track 03 in Classic Remastered as “Baldi's Schoolhouse”."
+	"Sample"
+		{
+		"Base"     "baldi_basics/mus_School.ogg"
+		"tbeam"    "baldi_basics/mus_School.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/mus_School.wav"
+		"tbeam"    "music/mus_School.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+	
+"Music"
+	{
+	"ID"          "K_track01"
+	"Name"        "Runner Star Home"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack.png"
+	"IconLarge"   "music_lrg/baldi_basics/soundtrack.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "Referenced to a cartoon I never watched, and is used in the Kickstarter Video. This track and - others in a row are from the official Kickstarter soundtrack by Micah and Cady Micah Mcgonigal."
+	"Sample"
+		{
+		"Base"     "baldi_basics/k_01.ogg"
+		"tbeam"    "baldi_basics/k_01.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/k_01.wav"
+		"tbeam"    "music/k_01.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "K_track03"
+	"Name"        "Creepy Old Computer"
+	"ShortName"   "Fog Event"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack.png"
+	"IconLarge"   "music_lrg/baldi_basics/fog_event.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "“Baldi's fog machine malfunctioned again! Ack! Hack!” This plays during the 'Fog Event' and Kickstarter Video"
+	"Sample"
+		{
+		"Base"     "baldi_basics/k_03.ogg"
+		"tbeam"    "baldi_basics/k_03.ogg"
+		"speedGel" "baldi_basics/k_03.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/k_03.wav"
+		"tbeam"    "music/k_03.wav"
+		"speedGel" "music/k_03.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "K_track04"
+	"Name"        "Flashback"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack.png"
+	"IconLarge"   "music_lrg/baldi_basics/soundtrack.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "This plays during the Kickstarter Video"
+	"Sample"
+		{
+		"Base"     "baldi_basics/k_04.ogg"
+		"tbeam"    "baldi_basics/k_04.ogg"
+		"BounceGel""baldi_basics/k_04.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/k_04.wav"
+		"tbeam"    "music/k_04.wav"
+		"BounceGel""music/k_04.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+	
+"Music"
+	{
+	"ID"          "K_track05"
+	"Name"        "Wholesome party music/Party Event"
+	"ShortName"   "mus_Party"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack.png"
+	"IconLarge"   "music_lrg/baldi_basics/party_event.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "“Party at the Principal's office! Come and get your present!” This plays during the 'Party Event'. Its name is officially Hayride Too I Don't Even Care and it's also used in the Kickstarter Video."
+	"Sample"
+		{
+		"Base"     "baldi_basics/mus_Party.ogg"
+		"tbeam"    "baldi_basics/mus_Party.ogg"
+		"speedGel" "baldi_basics/mus_Party.ogg"
+		"BounceGel""baldi_basics/mus_Party.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/mus_Lengthy.wav"
+		"tbeam"    "music/mus_Lengthy.wav"
+		"speedGel" "music/mus_Lengthy.wav"
+		"BounceGel""music/mus_Lengthy.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "K_track06"
+	"Name"        "How to Eat Cheese"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack.png"
+	"IconLarge"   "music_lrg/baldi_basics/cheese.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "References a chalkboard in most School Faculty rooms (at least in Baldi's Basics Classic and Birthday Bash) and is used in the Kickstarter Video."
+	"Sample"
+		{
+		"Base"     "baldi_basics/k_06.ogg"
+		"tbeam"    "baldi_basics/k_06.ogg"
+		"speedGel" "baldi_basics/k_06.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/k_06.wav"
+		"tbeam"    "music/k_06.wav"
+		"speedGel" "music/k_06.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "K_track08"
+	"Name"        "My Brother is a Clown"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack.png"
+	"IconLarge"   "music_lrg/baldi_basics/soundtrack.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "This track has never been used as far as I'm aware."
+	"Sample"
+		{
+		"Base"     "baldi_basics/k_08.ogg"
+		"tbeam"    "baldi_basics/k_10.ogg"
+		"speedGel" "baldi_basics/k_08.ogg"
+		"BounceGel""baldi_basics/k_08.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/k_08.wav"
+		"tbeam"    "music/k_10.wav"
+		"speedGel" "music/k_08.wav"
+		"BounceGel""music/k_08.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+	
+"Music"
+	{
+	"ID"          "K_track09"
+	"Name"        "That Flips My Hat backwards"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack.png"
+	"IconLarge"   "music_lrg/baldi_basics/flipsmyhat.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "Used in the Kickstarter Video with the title mentioned."
+	"Sample"
+		{
+		"Base"     "baldi_basics/k_09.ogg"
+		"tbeam"    "baldi_basics/k_09.ogg"
+		"speedGel" "baldi_basics/k_09.ogg"
+		"BounceGel""baldi_basics/k_09.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/k_09.wav"
+		"tbeam"    "music/k_09.wav"
+		"speedGel" "music/k_09.wav"
+		"BounceGel""music/k_09.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+	
+"Music"
+	{
+	"ID"          "K_track13"
+	"Name"        "Cheer for the Sport! (Unused)"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack.png"
+	"IconLarge"   "music_lrg/baldi_basics/soundtrack.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "Bonus audio in the Kickstarter soundtrack."
+	"Sample"
+		{
+		"Base"     "baldi_basics/k_13.ogg"
+		"tbeam"    "baldi_basics/k_13_tbeam.ogg"
+		"speedGel" "baldi_basics/k_13.ogg"
+		"BounceGel""baldi_basics/k_13.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/k_13.wav"
+		"tbeam"    "music/k_13_tbeam.wav"
+		"speedGel" "music/k_13.wav"
+		"BounceGel""music/k_13.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+	
+"Music"
+	{
+	"ID"          "K_track14"
+	"Name"        "New Thing Unlockabled! (Unused)"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack.png"
+	"IconLarge"   "music_lrg/baldi_basics/soundtrack.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "Bonus audio in the Kickstarter soundtrack."
+	"Sample"
+		{
+		"Base"     "baldi_basics/k_14.ogg"
+		"tbeam"    "baldi_basics/k_14.ogg"
+		"speedGel" "baldi_basics/k_14.ogg"
+		"BounceGel""baldi_basics/k_14.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/k_14.wav"
+		"tbeam"    "music/k_14.wav"
+		"speedGel" "music/k_14.wav"
+		"BounceGel""music/k_14.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "99"
+	"Name"        "99"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/99.png"
+	"IconLarge"   "music_lrg/baldi_basics/99.png"
+	"Authors"     "Micah Mc9oni9al"
+	"Description" "99"
+	"Sample"
+		{
+		"Base"     "baldi_basics/99.ogg"
+		"tbeam"    "baldi_basics/99.ogg"
+		"speedGel" "baldi_basics/99.ogg"
+		"BounceGel""baldi_basics/99.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/99.wav"
+		"tbeam"    "music/99.wav"
+		"speedGel" "music/99.wav"
+		"BounceGel""music/99.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "mus_Learn"
+	"Name"        "You Can Think Pad music"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/yctp.png"
+	"IconLarge"   "music_lrg/baldi_basics/yctp.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "The music that plays in the You Can Think Pad minigame."
+	"Sample"
+		{
+		"Base"     "baldi_basics/yctp.ogg"
+		"tbeam"    "baldi_basics/yctp.ogg"
+		"speedGel" "baldi_basics/yctp.ogg"
+		"BounceGel""baldi_basics/yctp.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/mus_Learn.wav"
+		"tbeam"    "music/mus_Learn.wav"
+		"speedGel" "music/mus_Learn.wav"
+		"BounceGel""music/mus_Learn.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "Everybodys_favorite_subject"
+	"Name"        "Everybody's Favorite Subject"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack2.png"
+	"IconLarge"   "music_lrg/baldi_basics/yctp2.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "The music that plays in the You Can Think Pad minigame in Classic Remastered. It's the 4th track on the soundtrack and is the extended version of the original mus_Learn track in Classic."
+	"Sample"
+		{
+		"Base"     "baldi_basics/cr_04.ogg"
+		"tbeam"    "baldi_basics/cr_04.ogg"
+		"speedGel" "baldi_basics/cr_04.ogg"
+		"BounceGel""baldi_basics/cr_04.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/math.wav"
+		"tbeam"    "music/math.wav"
+		"speedGel" "music/math.wav"
+		"BounceGel""music/math.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "Schoolhouse_escape"
+	"Name"        "Schoolhouse Escape"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack2.png"
+	"IconLarge"   "music_lrg/baldi_basics/school_escape.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "5th track in the Classic Remastered soundtrack. Plays in Finale mode after collecting all notebooks in Story game mode."
+	"Sample"
+		{
+		"Base"     "baldi_basics/cr_05.ogg"
+		"speedGel" "baldi_basics/cr_05.ogg"
+		"BounceGel""baldi_basics/cr_05.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/school_esc.wav"
+		"speedGel" "music/school_esc.wav"
+		"BounceGel""music/school_esc.wav"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "Schoolhouse_escape_alt"
+	"Name"        "Schoolhouse Escape"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack2.png"
+	"IconLarge"   "music_lrg/baldi_basics/school_escape.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "5th track in the Classic Remastered soundtrack. Plays in Finale mode after collecting all notebooks in Free Run game mode (a mode that can be unlocked in THE FUN SETTINGS in this edition)."
+	"Sample"
+		{
+		"Base"     "baldi_basics/cr_06.ogg"
+		"tbeam"    "baldi_basics/cr_06.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/school_escfree.wav"
+		"tbeam"    "music/school_escfree.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "Schoolhouse_trouble"
+	"Name"        "Schoolhouse Trouble"
+	"ShortName"   "Sch. Trouble"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack2.png"
+	"IconLarge"   "music_lrg/baldi_basics/null_bossfight.png"
+	"Authors"     "Anthony Hampton"
+	"Description" "10th track in the Classic Remastered soundtrack. In Classic Remastered, in Glitch style, this is played during the bossfight sequence against one of the glitches."
+	"Sample"
+		{
+		"Base"     "baldi_basics/cr_10.ogg"
+		"tbeam"    "baldi_basics/cr_10_tbeam.ogg"
+		"speedGel" "baldi_basics/cr_10_speedgel.ogg"
+		"BounceGel""baldi_basics/cr_10_bouncegel.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/school_trouble.wav"
+		"tbeam"    "music/school_trouble_tbeam.wav"
+		"speedGel" "music/school_trouble_speedgel.wav"
+		"BounceGel""music/school_trouble_bouncegel.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "ELEVATE"
+	"Name"        "Thanks for Playing"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack2.png"
+	"IconLarge"   "music_lrg/baldi_basics/elevate_store.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "11th track in the Classic Remastered soundtrack. In Baldi's Basics Plus, this is the Elevator music. In Plus and Classic Remastered, that's the music played during Credits."
+	"Sample"
+		{
+		"Base"     "baldi_basics/cr_11.ogg"
+		"tbeam"    "baldi_basics/cr_11.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/jazz.wav"
+		"tbeam"    "music/jazz.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "BADSUM"
+	"Name"        "BAD SUM"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack2.png"
+	"IconLarge"   "music_lrg/baldi_basics/badsum.png"
+	"Authors"     "Micah Mcgonigal"
+	"Description" "Played during Plus/Classic Remastered Warning screens, as well as during the Anti-Piracy screen in the Kickstarter Exclusive Demo. 14th on the soundtrack."
+	"Sample"
+		{
+		"Base"     "baldi_basics/cr_14.ogg"
+		"tbeam"    "baldi_basics/cr_14.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/bad.wav"
+		"tbeam"    "music/bad.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "Schoolhouse_trouble_alt"
+	"Name"        "Schoolhouse Trouble (Demo)"
+	"ShortName"   "Sch. Trouble 2"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack2.png"
+	"IconLarge"   "music_lrg/baldi_basics/glitch_bossfight.png"
+	"Authors"     "Anthony Hampton"
+	"Description" "15th track in the Classic Remastered soundtrack. This is an alternative version of Schoolhouse Trouble."
+	"Sample"
+		{
+		"Base"     "baldi_basics/cr_15.ogg"
+		"tbeam"    "baldi_basics/cr_15_tbeam.ogg"
+		"speedGel" "baldi_basics/cr_15_gel.ogg"
+		"BounceGel""baldi_basics/cr_15_gel.ogg"
+		}
+	"SoundScript"
+		{
+		"Base"     "music/school_trouble2.wav"
+		"tbeam"    "music/school_trouble2_tbeam.wav"
+		"speedGel" "music/school_trouble2_gel.wav"
+		"BounceGel""music/school_trouble2_gel.wav"
+
+		"sync_funnel" "1"
+		}
+	}
+
+"Music"
+	{
+	"ID"          "Schoolhouse_trouble_gel_alt"
+	"Name"        "Schoolhouse Trouble (Demo) Alternative gel music"
+	"ShortName"   "Sch. Trouble 2.1"
+	"Group"       "Baldi's Basics"
+	"Icon"        "music/baldi_basics/soundtrack2G.png"
+	"IconLarge"   "music_lrg/baldi_basics/glitch_bossfightG.png"
+	"Authors"     "Anthony Hampton"
+	"Description" "15th track in the Classic Remastered soundtrack. This is an alternative version of Schoolhouse Trouble."
+	"Sample"
+		{
+		"speedGel" "baldi_basics/cr_15_gelAlt.ogg"
+		"BounceGel""baldi_basics/cr_15_gelAlt.ogg"
+		}
+	"SoundScript"
+		{
+		"speedGel" "music/school_trouble2_gelAlt.wav"
+		"BounceGel""music/school_trouble2_gelAlt.wav"
+		}
+	}
